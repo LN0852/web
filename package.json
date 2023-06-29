@@ -50,7 +50,9 @@
     },
     "rules": {
       "space-before-function-paren": 0,
-      "eol-last": 0
+      "eol-last": 0,
+      "no-useless-return": 0,
+      "keyword-spacing": 0
     },
     "overrides": [
       {
